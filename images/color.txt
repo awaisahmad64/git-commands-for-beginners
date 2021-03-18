@@ -1,0 +1,18 @@
+Fonts
+ Poppins for heading
+Robot for Paragraph
+Colors;
+card-image-bordore & card-background-color : #210D36;
+img border color: #8434D6;
+
+Content for Team:
+
+Muhammad Nawaz Rizvi
+UI / UX Designer
+
+Awais Ahmad
+Full Stack Developer
+
+Muhammad Mubashir Ahmad
+Wordpress Developer
+
