@@ -20,6 +20,7 @@ This is git Repository for practing.
 * git pull
 * git stash
 #Git Commands 
+```
 git config
 This command sets the author name and email address respectively to be used with your commits.
 Usage: git config –global user.name “[name]”
@@ -99,4 +100,4 @@ This command fetches and merges changes on the remote server to your working dir
 git stash
 Usage: git stash save
 This command temporarily stores all the modified tracked files.
-
+```
