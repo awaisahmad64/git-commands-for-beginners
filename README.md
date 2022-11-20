@@ -19,9 +19,10 @@ This is git Repository for practing.
 * git push
 * git pull
 * git stash
+
+```
 #Git Commands 
 Mark up: **git config**
-```
 This command sets the author name and email address respectively to be used with your commits.
 Usage: git config –global user.name “[name]”
 Usage: git config –global user.email “[email address]”
