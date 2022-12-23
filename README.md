@@ -101,4 +101,17 @@ This command fetches and merges changes on the remote server to your working dir
 ## git stash
 Usage: git stash save
 This command temporarily stores all the modified tracked files.
+
+
+Rewriting the most recent commit message
+commit --amend 
+In your text editor, edit the commit message, and save the commit.
+OR
+commit --amend -m "New commit message."
+
+Amending older or multiple commit messages
+git rebase -i HEAS~n
+Save and close the commit list file.
+Replace pick with reword before each commit message you want to change.
+git push --force origin EXAMPLE-BRANCH
 ```
