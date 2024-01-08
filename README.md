@@ -92,7 +92,7 @@ Usage: git remote add [variable name] [Remote Server Link]
 This command is used to connect your local repository to the remote server.
 ## git push
 Usage: git push [variable name] master
-This command sends the committed changes of master branch to your remote repository.
+This command sends the committed changes of the master branch to your remote repository.
 Usage: git push [variable name] [branch] 
 This command sends the branch commits to your remote repository.
 git pull
@@ -114,4 +114,16 @@ git rebase -i HEAS~n
 Save and close the commit list file.
 Replace pick with reword before each commit message you want to change.
 git push --force origin EXAMPLE-BRANCH
+```
+```
+Contribution Process for a project:
+1. Fork the Repository to which you want to contribute
+2. Clone that repository
+3. Create a branch of that repository by git branch -c branchname
+4. Make changes
+5. Add and commit those changes
+6. Push on the newly created branch
+7. Make a pull request
+So that it for contribution.
+
 ```
